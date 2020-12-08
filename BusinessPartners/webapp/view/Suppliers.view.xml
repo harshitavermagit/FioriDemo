@@ -8,11 +8,12 @@
 					        <items>
 					            <StandardListItem type="Navigation" title="{CompanyName}" description="{BusinessPartnerID}" icon="sap-icon://picture" id="item0"/>
 					        </items>
+                            
 					    </List>
 					</content>
 				</Page>
 			</pages>
-            
+
 		</App>
 	</Shell>
 </mvc:View>
