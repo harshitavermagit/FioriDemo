@@ -7,7 +7,9 @@
 					    <List noDataText="Drop list items here" id="list0" items="{/BusinessPartnerSet}">
 					        <items>
 					            <StandardListItem type="Navigation" title="{CompanyName}" description="{BusinessPartnerID}" icon="sap-icon://picture" id="item0"/>
+
 					        </items>                       
+
 					    </List>
 					</content>
 				</Page>
